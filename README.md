@@ -1,22 +1,58 @@
 # Hi, I'm Hossam 👋
 
-Full-stack software engineer and founder, based in Egypt. I build B2B SaaS and AI-powered tooling — and I care about systems that are clean under the hood, not just on the surface.
+Software Engineer from Egypt with a background in backend engineering, enterprise integration, and AI-powered systems.
 
-### What I'm building
+I'm currently deepening my expertise in Deep Learning and Machine Learning while continuing to build production-grade software. My interests span from designing scalable backend architectures and distributed systems to developing AI agents and intelligent applications.
 
-- **EMS** — a multi-tenant B2B SaaS expense management platform (Fastify · Drizzle ORM · PostgreSQL · React · Next.js).
-- An embedded AI assistant for EMS: a **confirm-gated, tool-calling agent** with a provider-agnostic LLM layer (Gemini / DeepSeek / Anthropic), quota fallback, and per-tenant usage metering.
+I enjoy understanding how systems work internally—whether it's neural networks, distributed architectures, or large-scale software—and applying that knowledge to build reliable products.
 
-### Tech I work with
+## Current Focus
 
-**Backend:** Node.js · Fastify · TypeScript · .NET · PostgreSQL · Drizzle ORM
-**Frontend:** React · Next.js
-**AI / Integration:** LLM tool-calling · FastAPI · middleware & automation engineering
-**Also into:** ML research, hardware tinkering, applied systems thinking
+- Deep Learning & Machine Learning
+- AI Engineering & LLM Applications
+- Backend Architecture & Distributed Systems
+- System Design & Scalability
 
-### Open to work
+## Tech Stack
 
-I take on select freelance projects — particularly **LLM tool-calling integrations** and **FastAPI / React** builds. EMS's AI assistant is my go-to work sample.
+**Languages**
+
+`Python` `TypeScript` `C#` `Java` `SQL`
+
+**Backend**
+
+`Fastify` `ASP.NET` `Node.js` `PostgreSQL`
+`Redis` `Docker`
+
+**Frontend**
+
+`React` `Next.js`
+
+**AI**
+
+`PyTorch` `TensorFlow`
+`LLMs`
+`MCP`
+`RAG`
+`AI Agents`
+
+**Integration**
+
+`IBM App Connect Enterprise`
+`IBM MQ`
+`REST APIs`
+`Event-Driven Systems`
+
+## Current Projects
+
+- Building production SaaS applications
+- Designing AI agents that interact safely with business systems
+- Studying modern Deep Learning architectures and implementing them from research papers
+
+## Looking For
+
+Software Engineering, AI Engineering, Machine Learning, Backend, and Integration Engineering opportunities.
 
 ---
 
+> *Building software that is reliable today while learning the technologies that will shape tomorrow.*
